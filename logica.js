@@ -1,3 +1,3 @@
 function redirecionar() {
-    window.location.href = "MAYA BAY - NEW COLLECTION.pdf";
+    window.open( "MAYA BAY - NEW COLLECTION.pdf", '_blank');
 }

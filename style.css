@@ -9,8 +9,8 @@ body {
 }
 .button {
     display: inline-block;
-    padding: 10px 20px;
-    font-size: 20px;
+    padding: 50px 50px;
+    font-size: 50px;
     cursor: pointer;
     text-align: center;
     text-decoration: none;
@@ -20,6 +20,7 @@ body {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
+    
 }
 .button:hover {background-color: #3e8e41}
 .button:active {
